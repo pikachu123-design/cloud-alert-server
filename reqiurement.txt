@@ -1,6 +1,0 @@
-flask
-requests
-fastapi
-uvicorn
-gunicorn
-
